@@ -7,4 +7,5 @@ Utilizando la librería Pillow, crea una imagen en color (modo RGB), de 256x256p
 La componente roja debe ser igual a 'x'
 La componente verde debe ser igual a 'y'
 La componente azul debe ser igual a la media de los valores 'x' y 'y'
+
 (Para ejecutar el ejercicio resuelto "color_ramp.py", es necesario instalar la librería "pillow")
