@@ -6,6 +6,6 @@ de la imagen, las componentes roja ( 'r' ), verde ( 'g' ) y azul (' b ') cumplan
 las siguientes condiciones:
 - La componente roja debe ser igual a 'x'
 - La componente verde debe ser igual a 'y'
-- La componente azul debe ser igual a la media de los valores 'x' y 'y'
+- La componente azul debe ser igual a la media de los valores 'x' e 'y'
 
 (Para ejecutar el ejercicio resuelto "color_ramp.py", es necesario instalar la librería 'pillow')
